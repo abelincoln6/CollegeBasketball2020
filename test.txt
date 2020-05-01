@@ -1,0 +1,564 @@
+Lehigh	75	Final
+Bucknell	97	 
+Patriot Conf Tournament
+Liberty	74	Final
+Lipscomb	68	 
+A-Sun Conf Tournament
+Monmouth	73	Final
+Canisius	59	 
+MAAC Conf Tournament
+Navy	70	Final
+Colgate	80	 
+Patriot Conf Tournament
+UNC Wilmington	59	Final
+Northeastern	80	 
+CAA Conf Tournament
+Northern Iowa	54	Final
+Bradley	57	 
+MVC Conf Tournament
+Oral Roberts	73	Final
+North Dakota State	86	 
+Summit Conf Tournament
+Rutgers	73	Final
+Indiana	89	 
+xx
+Siena	57	Final
+Iona	73	 
+MAAC Conf Tournament
+South Dakota	70	Final
+Purdue-Fort Wayne	96	 
+Summit Conf Tournament
+SMU	77	Final
+South Florida	71	 
+xx
+Pepperdine	74	Final
+Gonzaga (1) 	100	 
+WCC Conf Tournament
+UNC Greensboro	58	Final
+Wofford (20) 	70	 
+Southern Conf Tournament
+Ball State	61	Final
+Eastern Michigan	43	 
+MAC Conf Tournament
+College of Charleston	67	Final
+Northeastern	70	 
+CAA Conf Tournament
+Delaware	74	Final
+Hofstra	78	OT
+CAA Conf Tournament
+Delaware State	71	Final
+Savannah State	67	 
+MEAC Conf Tournament
+Green Bay	54	Final
+Wright State	66	 
+Horizon Conf Tournament
+Purdue-Fort Wayne	60	Final
+Omaha	61	 
+Summit Conf Tournament
+Miami (OH)	51	Final
+Akron	80	 
+MAC Conf Tournament
+Monmouth	60	Final
+Iona	81	 
+MAAC Conf Tournament
+Oakland	63	Final
+Northern Kentucky	64	 
+Horizon Conf Tournament
+Ohio	61	Final
+Northern Illinois	80	 
+MAC Conf Tournament
+San Diego	62	Final
+Saint Mary's	69	 
+WCC Conf Tournament
+Western Illinois	73	Final
+North Dakota State	76	 
+Summit Conf Tournament
+Western Michigan	67	Final
+Central Michigan	81	 
+MAC Conf Tournament
+Saint Mary's	60	Final
+Gonzaga (1) 	47	 
+WCC Conf Tournament
+Alabama State	58	Final
+Jackson State	49	 
+SWAC Conf Tournament
+Alcorn State	66	Final
+Prairie View	86	 
+SWAC Conf Tournament
+Appalachian State	80	Final
+Louisiana-Monroe	89	 
+Sun Belt Conf Tournament
+Arkansas-Pine Bluff	52	Final
+Grambling	59	 
+SWAC Conf Tournament
+Arkansas State	67	Final
+South Alabama	75	 
+Sun Belt Conf Tournament
+Binghamton	51	Final
+Vermont	84	 
+AEC Conf Tournament
+Fairleigh Dickinson	85	Final
+Saint Francis (PA)	76	 
+NEC Conf Tournament
+Hartford	85	Final
+UMBC	90	2OT
+AEC Conf Tournament
+Morgan State	71	Final
+Coppin State	81	 
+MEAC Conf Tournament
+North Dakota State	73	Final
+Omaha	63	 
+Summit Conf Tournament
+Northeastern	82	Final
+Hofstra	74	 
+CAA Conf Tournament
+Northern Kentucky	77	Final
+Wright State	66	 
+Horizon Conf Tournament
+Notre Dame	78	Final
+Georgia Tech	71	 
+ACC Conf Tournament
+Pitt	80	Final
+Boston College	70	 
+ACC Conf Tournament
+South Carolina State	63	Final
+Maryland-Eastern Shore	54	 
+MEAC Conf Tournament
+Southern	70	Final
+Texas Southern	80	 
+SWAC Conf Tournament
+Wake Forest	71	Final
+Miami (FL)	79	 
+ACC Conf Tournament
+Miami (FL)	56	Final
+Virginia Tech (16) 	71	 
+ACC Conf Tournament
+Arizona	65	Final
+USC	78	 
+Pac-12 Conf Tournament
+Bucknell	80	Final
+Colgate	94	 
+Patriot Conf Tournament
+Butler	57	Final
+Providence	80	 
+Big East Conf Tournament
+California	51	Final
+Colorado	56	 
+Pac-12 Conf Tournament
+Central Arkansas	73	Final
+Texas A&M-Corpus Christi	53	 
+Southland Conf Tournament
+Clemson	58	Final
+NC State	59	 
+ACC Conf Tournament
+Colorado State	57	Final
+Boise State	66	 
+MWC Conf Tournament
+Coppin State	79	Final
+North Carolina A&T	82	OT
+MEAC Conf Tournament
+DePaul	74	Final
+St. John's (NY)	82	 
+Big East Conf Tournament
+Florida Atlantic	56	Final
+Louisiana Tech	57	 
+CUSA Conf Tournament
+Fordham	50	Final
+Richmond	52	 
+A-10 Conf Tournament
+Georgia	61	Final
+Missouri	71	 
+SEC Conf Tournament
+Houston Baptist	79	Final
+Lamar	81	 
+Southland Conf Tournament
+Idaho	71	Final
+Montana State	75	 
+Big Sky Conf Tournament
+Idaho State	80	Final
+Southern Utah	94	 
+Big Sky Conf Tournament
+UMass	64	Final
+George Washington	68	OT
+A-10 Conf Tournament
+Middle Tennessee	61	Final
+Alabama-Birmingham	70	 
+CUSA Conf Tournament
+Nebraska	68	Final
+Rutgers	61	 
+Big Ten Conf Tournament
+North Texas	71	Final
+Florida International	57	 
+CUSA Conf Tournament
+Northwestern	69	Final
+Illinois	74	OT
+Big Ten Conf Tournament
+Notre Dame	53	Final
+Louisville	75	 
+ACC Conf Tournament
+Oklahoma State	70	Final
+TCU	73	 
+Big 12 Conf Tournament
+Pitt	59	Final
+Syracuse	73	 
+ACC Conf Tournament
+Rice	65	Final
+Marshall	82	 
+CUSA Conf Tournament
+Sacramento State	72	Final
+Northern Arizona	60	 
+Big Sky Conf Tournament
+San Jose State	56	Final
+Air Force	87	 
+MWC Conf Tournament
+South Carolina State	73	Final
+Norfolk State	78	 
+MEAC Conf Tournament
+Stanford	72	Final
+UCLA	79	 
+Pac-12 Conf Tournament
+Vanderbilt	52	Final
+Texas A&M	69	 
+SEC Conf Tournament
+Washington State	51	Final
+Oregon	84	 
+Pac-12 Conf Tournament
+West Virginia	72	Final
+Oklahoma	71	 
+Big 12 Conf Tournament
+Wyoming	68	Final
+New Mexico	78	 
+MWC Conf Tournament
+NC State	56	Final
+Virginia (2) 	76	 
+ACC Conf Tournament
+Louisville	70	Final
+UNC (3) 	83	 
+ACC Conf Tournament
+Syracuse	72	Final
+Duke (5) 	84	 
+ACC Conf Tournament
+West Virginia	79	Final
+Texas Tech (7) 	74	 
+xx
+Virginia Tech (16) 	63	Final
+Florida State (12) 	65	OT
+ACC Conf Tournament
+Boise State	69	Final
+Nevada (14) 	77	 
+MWC Conf Tournament
+TCU	61	Final
+Kansas State (15) 	70	 
+Big 12 Conf Tournament
+Texas	57	Final
+Kansas (17) 	65	 
+Big 12 Conf Tournament
+Akron	46	Final
+Buffalo (18) 	82	 
+MAC Conf Tournament
+Nebraska	69	Final
+Maryland (21) 	61	 
+Big Ten Conf Tournament
+Missouri	71	Final
+Auburn (22) 	81	 
+SEC Conf Tournament
+St. John's (NY)	54	Final
+Marquette (23) 	86	 
+Big East Conf Tournament
+Providence	62	Final
+Villanova (25) 	73	 
+Big East Conf Tournament
+Air Force	50	Final
+Fresno State	76	 
+MWC Conf Tournament
+Alabama	62	Final
+Ole Miss	57	 
+SEC Conf Tournament
+Alabama-Birmingham	85	Final
+UTSA	76	 
+CUSA Conf Tournament
+Arkansas	50	Final
+Florida	66	 
+SEC Conf Tournament
+Ball State	86	Final
+Bowling Green State	99	 
+MAC Conf Tournament
+Bethune-Cookman	71	Final
+Howard	80	 
+MEAC Conf Tournament
+Cal State Bakersfield	70	Final
+Texas-Rio Grande Valley	85	 
+WAC Conf Tournament
+Cal State Northridge	68	Final
+UCSB	71	 
+Big West Conf Tournament
+UC-Davis	71	Final
+Cal State Fullerton	75	OT
+Big West Conf Tournament
+UC-Riverside	44	Final
+UC-Irvine	63	 
+Big West Conf Tournament
+Central Arkansas	65	Final
+Southeastern Louisiana	79	 
+Southland Conf Tournament
+Central Michigan	89	Final
+Kent State	81	 
+MAC Conf Tournament
+Chicago State	49	Final
+New Mexico State	86	 
+WAC Conf Tournament
+Colorado	73	Final
+Oregon State	58	 
+Pac-12 Conf Tournament
+UConn	80	Final
+South Florida	73	 
+AAC Conf Tournament
+Creighton	61	Final
+Xavier	63	 
+Big East Conf Tournament
+Delaware State	57	Final
+North Carolina Central	75	 
+MEAC Conf Tournament
+East Carolina	57	Final
+Wichita State	73	 
+AAC Conf Tournament
+George Washington	57	Final
+George Mason	61	 
+A-10 Conf Tournament
+Georgetown	57	Final
+Seton Hall	73	 
+Big East Conf Tournament
+Illinois	62	Final
+Iowa	83	 
+Big Ten Conf Tournament
+Indiana	75	Final
+Ohio State	79	 
+Big Ten Conf Tournament
+Iowa State	83	Final
+Baylor	66	 
+Big 12 Conf Tournament
+La Salle	57	Final
+Rhode Island	76	 
+A-10 Conf Tournament
+Lamar	72	Final
+New Orleans	76	 
+Southland Conf Tournament
+Long Beach State	68	Final
+Hawaii	66	 
+Big West Conf Tournament
+Louisiana-Monroe	80	Final
+Coastal Carolina	50	 
+Sun Belt Conf Tournament
+Louisiana Tech	56	Final
+Old Dominion	57	 
+CUSA Conf Tournament
+Florida State (12) 	69	Final
+Virginia (2) 	59	 
+ACC Conf Tournament
+Duke (5) 	74	Final
+UNC (3) 	73	 
+ACC Conf Tournament
+Alabama	55	Final
+Kentucky (4) 	73	 
+SEC Conf Tournament
+Ohio State	70	Final
+Michigan State (6) 	77	 
+Big Ten Conf Tournament
+Mississippi State	76	Final
+Tennessee (8) 	83	 
+SEC Conf Tournament
+Florida	76	Final
+LSU (9) 	73	 
+SEC Conf Tournament
+Iowa	53	Final
+Michigan (10) 	74	 
+Big Ten Conf Tournament
+UConn	45	Final
+Houston (11) 	84	 
+AAC Conf Tournament
+Minnesota	75	Final
+Purdue (13) 	73	 
+Big Ten Conf Tournament
+San Diego State	65	Final
+Nevada (14) 	56	 
+MWC Conf Tournament
+Iowa State	63	Final
+Kansas State (15) 	59	 
+Big 12 Conf Tournament
+West Virginia	74	Final
+Kansas (17) 	88	 
+Big 12 Conf Tournament
+Central Michigan	81	Final
+Buffalo (18) 	85	 
+MAC Conf Tournament
+Nebraska	62	Final
+Wisconsin (19) 	66	 
+Big Ten Conf Tournament
+Auburn (22) 	73	Final
+South Carolina	64	 
+SEC Conf Tournament
+Seton Hall	81	Final
+Marquette (23) 	79	 
+Big East Conf Tournament
+SMU	74	Final
+Cincinnati (24) 	82	 
+AAC Conf Tournament
+Xavier	67	Final
+Villanova (25) 	71	OT
+Big East Conf Tournament
+Alabama-Birmingham	59	Final
+Old Dominion	61	 
+CUSA Conf Tournament
+Alabama State	66	Final
+Texas Southern	80	 
+SWAC Conf Tournament
+Cal State Fullerton	64	Final
+UCSB	58	 
+Big West Conf Tournament
+Colorado	61	Final
+Washington	66	 
+Pac-12 Conf Tournament
+Fresno State	60	Final
+Utah State	85	 
+MWC Conf Tournament
+George Mason	57	Final
+St. Bonaventure	68	 
+A-10 Conf Tournament
+Grambling	71	Final
+Prairie View	81	 
+SWAC Conf Tournament
+Grand Canyon	78	Final
+Utah Valley	74	 
+WAC Conf Tournament
+Howard	69	Final
+Norfolk State	75	 
+MEAC Conf Tournament
+Long Beach State	67	Final
+UC-Irvine	75	 
+Big West Conf Tournament
+Louisiana-Monroe	67	Final
+Georgia Southern	81	 
+Sun Belt Conf Tournament
+Memphis	79	Final
+UCF	55	 
+AAC Conf Tournament
+New Orleans	79	Final
+Sam Houston State	76	 
+Southland Conf Tournament
+North Carolina Central	65	Final
+North Carolina A&T	63	 
+MEAC Conf Tournament
+Northern Illinois	67	Final
+Bowling Green State	71	 
+MAC Conf Tournament
+Oregon	79	Final
+Arizona State	75	OT
+Pac-12 Conf Tournament
+Rhode Island	75	Final
+VCU	70	 
+A-10 Conf Tournament
+St. Joseph's	60	Final
+Davidson	70	 
+A-10 Conf Tournament
+Saint Louis	64	Final
+Dayton	55	 
+A-10 Conf Tournament
+South Alabama	67	Final
+Texas State	79	 
+Sun Belt Conf Tournament
+Southeastern Louisiana	66	Final
+Abilene Christian	69	 
+Southland Conf Tournament
+Southern Miss	59	Final
+Western Kentucky	70	 
+CUSA Conf Tournament
+Southern Utah	61	Final
+Eastern Washington	77	 
+Big Sky Conf Tournament
+Texas-Rio Grande Valley	72	Final
+New Mexico State	79	 
+WAC Conf Tournament
+Weber State	49	Final
+Montana	78	 
+Big Sky Conf Tournament
+Wichita State	80	Final
+Temple	74	 
+AAC Conf Tournament
+Tennessee (8) 	82	Final
+Kentucky (4) 	78	 
+SEC Conf Tournament
+Florida State (12) 	63	Final
+Duke (5) 	73	 
+ACC Conf Tournament
+Wisconsin (19) 	55	Final
+Michigan State (6) 	67	 
+Big Ten Conf Tournament
+Minnesota	49	Final
+Michigan (10) 	76	 
+Big Ten Conf Tournament
+Memphis	58	Final
+Houston (11) 	61	 
+AAC Conf Tournament
+Iowa State	78	Final
+Kansas (17) 	66	 
+Big 12 Conf Tournament
+Bowling Green State	73	Final
+Buffalo (18) 	87	 
+MAC Conf Tournament
+Florida	62	Final
+Auburn (22) 	65	 
+SEC Conf Tournament
+Wichita State	63	Final
+Cincinnati (24) 	66	 
+AAC Conf Tournament
+Seton Hall	72	Final
+Villanova (25) 	74	 
+Big East Conf Tournament
+Cal State Fullerton	64	Final
+UC-Irvine	92	 
+Big West Conf Tournament
+Eastern Washington	62	Final
+Montana	68	 
+Big Sky Conf Tournament
+Georgia Southern	58	Final
+Texas-Arlington	67	 
+Sun Belt Conf Tournament
+Grand Canyon	57	Final
+New Mexico State	89	 
+WAC Conf Tournament
+UMBC	49	Final
+Vermont	66	 
+AEC Conf Tournament
+New Orleans	60	Final
+Abilene Christian	77	 
+Southland Conf Tournament
+North Carolina Central	50	Final
+Norfolk State	47	 
+MEAC Conf Tournament
+Oregon	68	Final
+Washington	48	 
+Pac-12 Conf Tournament
+Penn	58	Final
+Harvard	66	 
+Ivy Conf Tournament
+Princeton	77	Final
+Yale	83	 
+Ivy Conf Tournament
+Rhode Island	51	Final
+St. Bonaventure	68	 
+A-10 Conf Tournament
+Saint Louis	67	Final
+Davidson	44	 
+A-10 Conf Tournament
+San Diego State	57	Final
+Utah State	64	 
+MWC Conf Tournament
+Texas Southern	86	Final
+Prairie View	92	 
+SWAC Conf Tournament
+Texas State	46	Final
+Georgia State	59	 
+Sun Belt Conf Tournament
+Western Kentucky	56	Final
+Old Dominion	62	 
+CUSA Conf Tournament
